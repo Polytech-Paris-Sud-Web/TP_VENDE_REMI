@@ -1,0 +1,14 @@
+<br/>
+<div class="col">
+    <div class="card text-center" *ngIf='this.article'>
+
+        <button class="customB" (click)="delete()"><i class="fa fa-trash"></i></button>
+        <h5 class="card-header">{{this.article?.title}}</h5>
+        
+        
+        <div class="card-body">
+          <p class="card-text">{{this.article?.content}}</p>
+          <a href="articles/{{this.article.id}}">More informations</a><br/>
+        </div>
+      </div>
+</div>

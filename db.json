@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Angular component",
+      "content": "Angular component looks awesome!",
+      "author": "Orangefire"
+    },
+    {
+      "title": "Fake Title",
+      "content": "my content",
+      "author": "toto",
+      "id": 4
+    },
+    {
+      "title": "Fake Title 44",
+      "content": "ccccc",
+      "author": "cc",
+      "id": 5
+    },
+    {
+      "title": "Fake Title Bis",
+      "content": "sdomihousdhvouhdsuivhdsivhqs",
+      "author": "Remi",
+      "id": 6
+    }
+  ]
+}
